@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FloatingActionBtn.Page1">
+  <AbsoluteLayout>
+    <Frame Padding="0" HasShadow="True"  AbsoluteLayout.LayoutBounds=".92,.94,.14,.10" AbsoluteLayout.LayoutFlags="All" Rotation="45" BackgroundColor="#2196F3" >
+      <Label Text="+" FontSize="30" FontFamily="Bold" TextColor="White" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" Rotation="-45" />
+    </Frame>
+  </AbsoluteLayout>
+</ContentPage>
