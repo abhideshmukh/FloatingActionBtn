@@ -13,6 +13,7 @@ namespace FloatingActionBtn
         public Page1()
         {
             InitializeComponent();
+            stkLayout.BackgroundColor = Color.Red;
         }
     }
 }
